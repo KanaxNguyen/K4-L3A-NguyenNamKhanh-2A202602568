@@ -1,7 +1,7 @@
 # Báo Cáo Cá Nhân — Lab 7: Embedding & Vector Store
 
-**Họ tên:** Nguyễn Thái Dương (yangtai2504)
-**Nhóm:** Nhóm K4-L3A (Đại học FPT)
+**Họ tên:** Nguyễn Nam Khánh (MSSV: 2A202602568)
+**Nhóm:** Nhóm 18 — Lớp K4-L3A (Đại học FPT) — Vai trò: Khánh (R2 · Benchmark Lead)
 **Ngày:** 2026-09-19
 
 > **Nộp 1 bản / sinh viên.** Phần nhóm (lựa chọn tài liệu, thiết kế chiến lược, bộ câu hỏi đánh giá, demo) nộp chung 1 bản trong `REPORT_NHOM.md`. Chi tiết thang điểm: `docs/SCORING.md`.
